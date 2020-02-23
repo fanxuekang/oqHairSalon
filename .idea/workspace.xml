@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c83c87d-2cda-47e7-aa36-e5499ef7ca1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>membersInfo</find>
+    </findStrings>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="OqHairSalon.main" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1XsFFlIQocE0tt31prJjGb9h3tI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA Projects\oqHairSalon\src\lib" />
+      <recent name="F:\IDEA Projects\oqHairSalon\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OqHairSalon">
+    <configuration name="BillManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.BillManagement" />
+      <module name="oqHairSalon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iss.oqHairSalon.DbManager" />
+      <module name="oqHairSalon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iss.oqHairSalon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OqHairSalon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iss.oqHairSalon.OqHairSalon" />
+      <module name="oqHairSalon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iss.oqHairSalon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserManagerment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iss.oqHairSalon.UserManagerment" />
+      <module name="oqHairSalon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iss.oqHairSalon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iss.oqHairSalon.text" />
+      <module name="oqHairSalon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iss.oqHairSalon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OqHairSalon" />
+        <item itemvalue="Application.DbManager" />
+        <item itemvalue="Application.text" />
+        <item itemvalue="Application.UserManagerment" />
+        <item itemvalue="Application.BillManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c83c87d-2cda-47e7-aa36-e5499ef7ca1e" name="Default Changelist" comment="" />
+      <created>1578139764408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578139764408</updated>
+      <workItem from="1578139767403" duration="2763000" />
+      <workItem from="1578142618974" duration="1380000" />
+      <workItem from="1578184078978" duration="12129000" />
+      <workItem from="1578270183438" duration="12940000" />
+      <workItem from="1578363047944" duration="9113000" />
+      <workItem from="1578441857512" duration="20174000" />
+      <workItem from="1578529645916" duration="21979000" />
+      <workItem from="1578617345889" duration="16253000" />
+      <workItem from="1578702514720" duration="20088000" />
+      <workItem from="1578822947536" duration="2808000" />
+      <workItem from="1578915790014" duration="8567000" />
+      <workItem from="1578962502808" duration="11000" />
+      <workItem from="1581826795569" duration="5460000" />
+      <workItem from="1582009139125" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="18" key="GridCell.Tab.0.bottom" timestamp="1581832836578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="18" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581832836578" />
+    <state width="1493" height="18" key="GridCell.Tab.0.center" timestamp="1581832836578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="18" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581832836578" />
+    <state width="1493" height="18" key="GridCell.Tab.0.left" timestamp="1581832836577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="18" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581832836577" />
+    <state width="1493" height="18" key="GridCell.Tab.0.right" timestamp="1581832836578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="18" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581832836578" />
+  </component>
+</project>
